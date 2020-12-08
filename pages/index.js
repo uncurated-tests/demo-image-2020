@@ -9,7 +9,7 @@ const Index = () => (
   <div className={styles.container}>
     <ViewSource pathname="pages/index.js" />
     <div className={styles.card}>
-      <h1>Image Component with Next.js</h1>
+      <h1>Image Component 2020</h1>
       <p>
         This page demonstrates the usage of the{' '}
         <a href="https://nextjs.org/docs/api-reference/next/image">
